@@ -1,6 +1,6 @@
 # W9_Temperature
 - Health forecast by temperature
-- Compare the body temperature of 2 people to decide whether to contact each other 
+- Compare the body temperature of 2 people to decide their compatability
 - Less than 36.5 degrees : Low body temperature
 - From 36.5 to 38 degrees : Normal
 - From 38 to 40 degrees: Mild fever
